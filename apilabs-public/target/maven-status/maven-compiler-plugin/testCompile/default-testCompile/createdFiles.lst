@@ -1,0 +1,4 @@
+cn\apilabs\configuration\QuickStartTest.class
+cn\apilabs\coordinate\LongitudeAndLatitudeTest.class
+cn\apilabs\compress\ZipAndUnZipTest.class
+cn\apilabs\coordinate\GaussXYDealTest.class
