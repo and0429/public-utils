@@ -1,4 +1,4 @@
-package cn.apilabs;
+package cn.apilabs.IO;
 
 import java.io.*;
 

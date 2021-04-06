@@ -50,8 +50,6 @@ public class Main {
         System.out.println(echo);
 
 
-
-
         // 方法二
 //        Configurations configurations = new Configurations();
 //        final FileBasedConfigurationBuilder<PropertiesConfiguration> builder = configurations.propertiesBuilder("test.properties");
